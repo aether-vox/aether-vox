@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm gummikatze</h1>
+<h1 align="left">Hey 👋 I'm aethervox</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- First-year apprentice 📚<br>- Goth 💜<br>- Germany 🇩🇪<br>- Creating bugs since 2022 🐛</p>
+<p align="left">- Second-year apprentice 📚<br>- Goth 💜<br>- Germany 🇩🇪<br>- Creating bugs since 2022 🐛</p>
 
 ###
 
@@ -27,9 +27,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" alt="phoenix logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" />
@@ -63,5 +63,5 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gummikatze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aether-vox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
