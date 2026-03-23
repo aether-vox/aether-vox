@@ -10,15 +10,15 @@
 
 ###
 
-<p align="left">- Second-year apprentice 📚<br>- Goth 💜<br>- Germany 🇩🇪<br>- Creating bugs since 2022 🐛</p>
+<p align="left">- Third-year apprentice (paused) 📚<br>- Goth 💜<br>- Germany 🇩🇪<br>- Creating bugs since 2022 🐛</p>
 
 ###
 
-<h3 align="left">🔧 I'm working on</h3>
+<h3 align="left">🔧 I have worked on</h3>
 
 ###
 
-<p align="left">- Godot game for people with no tech experience<br>- Simple applications like timetables, Discord bots</p>
+<p align="left">- Godot game for people with no tech experience<br>- Simple Discord bots<br>- Personal website for finance tracking and statistics<br>- Webuntis Desktop App client with customization options</p>
 
 ###
 
@@ -27,9 +27,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" alt="phoenix logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" />
@@ -58,6 +55,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" alt="phoenix logo"  />
 </div>
 
 ###
